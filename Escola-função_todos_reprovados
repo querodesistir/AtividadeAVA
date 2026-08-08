@@ -1,0 +1,4 @@
+  public void Patrick(){
+        if(cont == 0){
+        System.out.println("E todo mundo morreu ;D");
+        }
