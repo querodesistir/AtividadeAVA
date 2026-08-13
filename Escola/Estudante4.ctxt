@@ -1,0 +1,16 @@
+#BlueJ class context
+#Thu Aug 13 10:46:09 BRT 2026
+comment0.target=Estudante4
+comment1.params=md meno nome notas i val
+comment1.target=Estudante4(double, double, java.lang.String, java.util.ArrayList, int, double)
+comment2.params=notas
+comment2.target=void setNot(java.util.ArrayList)
+comment3.target=java.util.ArrayList getNotas()
+comment4.params=md
+comment4.target=void setMd(double)
+comment5.target=double getMd()
+comment6.target=java.lang.String getNome()
+comment7.target=void InsereNotas()
+comment8.target=double Calmd()
+comment9.target=void Menor()
+numComments=10
